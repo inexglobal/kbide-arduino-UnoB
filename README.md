@@ -1,4 +1,4 @@
-# Arduino-Uno R3 board for KBIDE
+# i-Duino UNO R3B board for KBIDE
 
 ### Block mode
 
