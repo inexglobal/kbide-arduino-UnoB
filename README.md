@@ -9,7 +9,7 @@ All accessible functions are cited in **'include'**  folder, and all pin definat
 
 ### Schematic 
 
-can be found in any Google search.
+https://inex.co.th/shop/education-board/arduino-wiring/i-duino-uno/i-duino-uno-r3b.html
 
 ### Change log
 
