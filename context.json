@@ -1,0 +1,13 @@
+{	
+    "mcu" : "atmega328pb",
+    "arch" : "AVR_UNO",
+    "baudrate" : 115200,
+    "cpu_clock" : 16000000,
+	"cflags": [
+    	"-I\"{board}/include\""
+    ],
+    "libflags" : [
+    	"-L\"{board}/lib\"",
+    	"-mmcu=atmega328pb"
+    ]
+}
