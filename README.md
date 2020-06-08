@@ -11,10 +11,4 @@ All accessible functions are cited in **'include'**  folder, and all pin definat
 
 https://inex.co.th/shop/education-board/arduino-wiring/i-duino-uno/i-duino-uno-r3b.html
 
-### Change log
 
-Version 0.9.0
- - add bug to fix next version
- 
-### License
-MIT
