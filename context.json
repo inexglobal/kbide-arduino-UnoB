@@ -3,6 +3,7 @@
     "arch" : "AVR_UNO",
     "baudrate" : 115200,
     "cpu_clock" : 16000000,
+	"arduino_arch" : "AVR",
 	"cflags": [
     	"-I\"{board}/include\""
     ],
