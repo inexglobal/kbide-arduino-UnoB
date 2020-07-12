@@ -8,5 +8,5 @@ module.exports = {
   email: "teerawut@inex.co.th",
   git: "https://github.com/inexglobal/kbide-arduino-UnoB/",
   image: "/static/display.jpg",
-  version: "0.9.2"
+  version: "0.9.3"
 };
